@@ -1,5 +1,5 @@
 # Welcome to Sonic Pi v3.1
-2.times do
+loop do
   play 60
   sleep 1
   play 65
