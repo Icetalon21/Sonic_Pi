@@ -1,11 +1,11 @@
 # Welcome to Sonic Pi v3.1
 loop do
-  play 60
+  sample :ambl_choir
   sleep 1
-  play 65
+  sample :ambi_choir
   sleep 1
-  play 70
+  sample :drum_roll
   sleep 1
-  play 75
+  sample :tabla_na
   sleep 1
 end
